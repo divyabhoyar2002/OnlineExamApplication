@@ -1,4 +1,4 @@
-# OnlineExamApplication
+# Online Exam Application
 The Online Exam Application is a comprehensive web-based platform designed to facilitate the creation, management, and execution of online exams. This project is built using PHP for the backend, HTML and CSS for the frontend, and JavaScript to enhance interactivity. The application is structured into two main sections: the Admin Panel for instructors and the Student Panel for learners. By utilizing cookies, the application ensures a seamless login and logout experience for users.
 Key Features
 Student Panel
